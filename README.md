@@ -1,8 +1,7 @@
 ## Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaechaekim&cache_seconds=86400)](https://github.com/Chaechaekim/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaechaekim)](https://github.com/Chaechaekim/github-readme-stats)
-<!--
 **Chaechaekim/Chaechaekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
